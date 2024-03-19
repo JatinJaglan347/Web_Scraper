@@ -15,3 +15,11 @@ Web Scraper is a tool designed to help users extract text data from websites by 
 ```bash
 git clone https://github.com/JatinJaglan347/Web_Scraper.git
 cd Web-Scraper
+
+## Creator
+
+` **Jatin Jaglan**
+  - [GitHub]([https://github.com/jatinjaglan](https://github.com/JatinJaglan347))
+  - [Instagram]([https://www.instagram.com/jatinjaglan/](https://www.instagram.com/jatinjaglan347/))
+  - [LinkedIn]([https://www.linkedin.com/in/jatinjaglan/](https://www.linkedin.com/in/jatin-jaglan-830853263/)https://www.linkedin.com/in/jatin-jaglan-830853263/)
+  
