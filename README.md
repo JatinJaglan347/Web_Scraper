@@ -8,6 +8,9 @@ Web Scraper is a tool designed to help users extract text data from websites by 
 - Display the scraped text content in an organized manner.
 - Built with Flask for the backend, HTML for the frontend, and Tailwind CSS for styling.
 
+## PPT
+-https://docs.google.com/presentation/d/1PYizm3H5zQD_zsK4lINjmQVZjQHMfNLU/edit#slide=id.p1
+
 
 ## Installation
 
