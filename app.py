@@ -23,20 +23,20 @@ def index():
             soup = BeautifulSoup(response.content, 'html.parser')
             elements = soup.find_all(tag)
 
-            # Create a set to store unique content from div tags
+            
             unique_content = set()
 
-            # Loop through each element
+            
             for element in elements:
-                # Extract the text content of the element and strip whitespace
+               
                 content = element.text.strip()
                 
-                # Check if the content is not empty and not already in the unique_content set
+                
                 if substring(unique_content , content) == False:
                     unique_content.add(content)
                     
 
-            # Join the unique content into a formatted string
+
             extracted_data = '\n'.join(unique_content)
 
             return render_template('result.html', data=extracted_data)
